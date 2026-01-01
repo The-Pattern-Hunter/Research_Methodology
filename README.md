@@ -22,13 +22,14 @@ Click the **"Open in Colab"** badges below to launch the interactive notebooks d
 | Topic | Description | Link |
 | :--- | :--- | :--- |
 | **Unit 2 - Part 1: Research Design** | Introduction to planning research and defining frameworks. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part1_Research_Design.ipynb) |
-| **Unit 2 - Part 2: Research Design Advanced** | Deep dive into complex research structures and methodologies. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) |
+| **Unit 2 - Part 2: Advanced Design** | Deep dive into complex research structures and methodologies. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) |
 
-### Unit 3: Data & Reporting
+### Unit 3: Data, Analysis & Reporting
 | Topic | Description | Link |
 | :--- | :--- | :--- |
 | **Unit 3 - Part 1: Collection & Analysis** | Methods for gathering data and statistical reporting techniques. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part1_Data_Collection_Analysis_Reporting.ipynb) |
-| **Unit 3 - Part 3: Visualization** | Creating tables, managing citations, and data visualization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) |
+| **Unit 3 - Part 2: Report & Bibliography** | Technical writing, table construction, and managing bibliographies. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb) |
+| **Unit 3 - Part 3: Visualization** | Advanced data visualization and citation management. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) |
 
 ### Unit 4: Ethics
 | Topic | Description | Link |
