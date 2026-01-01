@@ -182,13 +182,13 @@ Click the badge to open any notebook directly in Google Colab (no installation r
 |--------|----------|---------------|----------------|
 | **Module 0** | Prologue: The Quest to Code Mysteries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb) | Emergence, Philosophy of Research, Interactive Model |
 | **Unit 1** | Foundations of Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Foundations_of_Research.ipynb) | Meaning, Objectives, Types of Research |
-| **Unit 2.1** | Research Design Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part1_Research_Design.ipynb) | Problems, Questions, Hypotheses, Variables |
-| **Unit 2.2** | Research Design Part 2 (Advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) | Models, Planning Process, Validity |
-| **Unit 3.1** | Data Collection & Analysis Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part1_Data_Collection_Analysis_Reporting.ipynb) | Methods, Processing, Basic Reporting |
-| **Unit 3.2** | Report Writing & Bibliography Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb) | IMRaD Format, Tables, Citations |
-| **Unit 3.3** | Tables, Citations & Visualization Part 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) | Advanced Figures, Citation Styles |
-| **Unit 4.1** | Ethical Issues Part 1: IPR & Copyright | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part1.ipynb) | IPR, Patents, Open Access |
-| **Unit 4.2** | Ethical Issues Part 2: Integrity & Conduct | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part2.ipynb) | Plagiarism, Animal/Human Ethics |
+| **Unit 2.1** | Research Design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Research_Design.ipynb) | Problems, Questions, Hypotheses, Variables |
+| **Unit 2.2** | Research Design - Advanced | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) | Models, Planning Process, Validity |
+| **Unit 3.1** | Data Collection, Analysis & Reporting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Data_Collection_Analysis_Reporting.ipynb) | Methods, Processing, Basic Reporting |
+| **Unit 3.2** | Report Writing, Tables & Bibliography | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb) | IMRaD Format, Tables, Citations |
+| **Unit 3.3** | Tables, Citations & Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) | Advanced Figures, Citation Styles |
+| **Unit 4.1** | Ethical Issues Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part1.ipynb) | IPR, Copyright, Patents, Open Access |
+| **Unit 4.2** | Ethical Issues Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part2.ipynb) | Plagiarism, Integrity, Animal/Human Ethics |
 
 > **✅ All links are ready to use!** Click any badge to open the notebook in Google Colab.
 
@@ -241,21 +241,21 @@ Follow this sequence for optimal learning:
 
 ### **🎨 Interactive Visualizations**
 
-Every notebook includes interactive elements. Here's what you'll find:
+Every notebook includes engaging visual elements to enhance learning:
 
-| Module | Interactive Features | What You Can Do |
-|--------|---------------------|-----------------|
-| **Module 0** | • Emergence calculator<br>• 7-parameter sliders<br>• Real-time visualization | Adjust qualities & observer state to see emergence change |
-| **Unit 1** | • Research motivation charts<br>• Methods vs. Methodology comparisons<br>• Type classification exercises | Compare different research approaches visually |
-| **Unit 2.1** | • Hypothesis formulator<br>• Variable identifier<br>• Research question generator | Practice formulating your own research elements |
-| **Unit 2.2** | • Population growth models<br>• Research plan template<br>• Model comparison tool | Simulate biological phenomena, generate proposals |
-| **Unit 3.1** | • Data collection simulator<br>• Statistical test selector<br>• Sample size calculator | Choose appropriate methods for your research |
-| **Unit 3.2** | • IMRaD structure builder<br>• Table formatter<br>• Citation generator | Create professional research documents |
-| **Unit 3.3** | • Figure layout optimizer<br>• Citation style comparator<br>• Visualization selector | Design publication-quality outputs |
-| **Unit 4.1** | • Patent search simulator<br>• Open Access calculator<br>• Predatory journal checker | Navigate intellectual property landscape |
-| **Unit 4.2** | • Plagiarism quiz (5 scenarios)<br>• Authorship decision tree<br>• Ethics scenario analyzer | Test ethical decision-making skills |
+| Module | What You'll Find | Learning Approach |
+|--------|------------------|-------------------|
+| **Module 0** | • Emergence calculator with 7 adjustable sliders<br>• Real-time visualization of non-linear interactions<br>• Observer state dependency graphs | Hands-on exploration of complex systems |
+| **Unit 1** | • Research motivation visualizations<br>• Comparative charts (methods vs. methodology)<br>• Type classification demonstrations | Visual comparison of research approaches |
+| **Unit 2.1** | • Research design frameworks<br>• Hypothesis examples<br>• Variable relationship diagrams | Step-by-step research planning |
+| **Unit 2.2** | • Population growth model simulations<br>• Complete research plan template<br>• Scientific model demonstrations | Interactive modeling and templates |
+| **Unit 3.1** | • Data collection workflow diagrams<br>• Analysis method examples<br>• Report structure guides | Practical data handling |
+| **Unit 3.2** | • IMRaD format templates<br>• Table creation examples<br>• Citation format demonstrations | Professional writing tools |
+| **Unit 3.3** | • Publication-quality figure examples<br>• Multiple citation style guides<br>• Visualization best practices | Advanced presentation skills |
+| **Unit 4.1** | • IPR concept diagrams<br>• Open access vs. traditional publishing comparisons<br>• Patent process workflows | Understanding intellectual property |
+| **Unit 4.2** | • Plagiarism type examples<br>• Ethical decision frameworks<br>• Animal/human ethics guidelines | Ethics in action |
 
-**Total Interactive Elements:** 50+ across all modules
+**All notebooks feature:** Code examples, visualizations, practice exercises, and real Western Odisha biodiversity examples
 
 ### **🌍 Regional Context**
 All examples use familiar Western Odisha biodiversity:
@@ -271,6 +271,12 @@ Ready-to-use research tools:
 - Citation formats (APA, MLA, Chicago, Vancouver)
 - Ethical review checklist
 - Plagiarism self-check quiz
+
+### **🔬 Real Research Examples**
+Based on Dr. Patel's actual OSHEC-funded research:
+- Earthworm genomics for biomonitoring industrial pollution
+- Fish genetics and microsatellite marker development
+- Environmental biomonitoring in mining regions
 
 ---
 
@@ -289,13 +295,13 @@ Research_Methodology/
     ├── Unit1_Foundations_of_Research.ipynb
     │   └── Types, methods vs. methodology
     │
-    ├── Unit2_Part1_Research_Design.ipynb
-    │   └── Problem formulation, hypotheses
+    ├── Unit2_Research_Design.ipynb
+    │   └── Problem formulation, hypotheses, variables
     │
     ├── Unit2_Part2_Research_Design_Advanced.ipynb
     │   └── Models, planning process, validity
     │
-    ├── Unit3_Part1_Data_Collection_Analysis_Reporting.ipynb
+    ├── Unit3_Data_Collection_Analysis_Reporting.ipynb
     │   └── Methods, processing, basic reporting
     │
     ├── Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb
@@ -320,7 +326,7 @@ Research_Methodology/
 **Dr. Alok Patel**  
 Head, Department of Zoology  
 Kuchinda College (Affiliated with Sambalpur University)  
-Western Odisha, India
+Odisha, India
 
 ### **Research Interests:**
 - Evolution and environmental genomics
@@ -396,14 +402,14 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 ## 📊 **Course Statistics**
 
-- **Total Notebooks:** 9 (including prologue)
-- **Interactive Visualizations:** 50+
-- **Code Examples:** 100+
-- **Practice Exercises:** 30+
-- **Real Research Cases:** 20+
-- **Regional Species Featured:** 15+
-- **Citation Examples:** 100+
-- **Ethical Scenarios:** 25+
+- **Total Notebooks:** 9 (including philosophical prologue)
+- **Code Demonstrations:** Extensive throughout all units
+- **Visualizations:** Rich visual content in every module
+- **Practice Components:** Exercises and examples in each unit
+- **Real Research Examples:** Based on Dr. Patel's OSHEC-funded work
+- **Regional Species Featured:** Fish, earthworms, butterflies, and more
+- **Citation Styles Covered:** APA, MLA, Chicago, Vancouver
+- **Ethical Topics:** Plagiarism, IPR, animal/human research, integrity
 
 ---
 
@@ -484,20 +490,15 @@ Please:
 | **Templates Included** | Research plans, IMRaD reports, citation formats |
 | **Ethics Coverage** | Comprehensive (plagiarism, animal/human subjects, IPR) |
 
-### **Key Resources per Module**
+### **Key Resources Overview**
 
-| Module | Code Examples | Visualizations | Exercises | Templates |
-|--------|---------------|----------------|-----------|-----------|
-| Module 0 | 3 | 4 | 2 | 0 |
-| Unit 1 | 8 | 6 | 4 | 0 |
-| Unit 2.1 | 10 | 8 | 5 | 1 |
-| Unit 2.2 | 12 | 10 | 6 | 2 |
-| Unit 3.1 | 15 | 8 | 5 | 1 |
-| Unit 3.2 | 18 | 6 | 4 | 3 |
-| Unit 3.3 | 20 | 12 | 6 | 2 |
-| Unit 4.1 | 8 | 5 | 3 | 1 |
-| Unit 4.2 | 10 | 6 | 5 | 2 |
-| **TOTAL** | **104** | **65** | **40** | **12** |
+Each module contains:
+- **Code Examples:** Demonstrations of concepts with Python
+- **Visualizations:** Charts, graphs, and diagrams for clarity  
+- **Exercises:** Practice problems and thought experiments
+- **Templates:** Ready-to-use research planning tools
+
+The course progresses from philosophical foundations (Module 0) through research design, data handling, and ethical practice, with consistent use of Western Odisha biodiversity examples throughout.
 
 ### **Regional Species Featured**
 
