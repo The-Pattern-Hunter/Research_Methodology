@@ -174,7 +174,27 @@ By completing this course, students will be able to:
 
 ---
 
-## 🚀 **Getting Started**
+## 🚀 **Quick Access: Open in Google Colab**
+
+Click the badge to open any notebook directly in Google Colab (no installation required!):
+
+| Module | Notebook | Open in Colab | Topics Covered |
+|--------|----------|---------------|----------------|
+| **Module 0** | Prologue: The Quest to Code Mysteries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb) | Emergence, Philosophy of Research, Interactive Model |
+| **Unit 1** | Foundations of Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Foundations_of_Research.ipynb) | Meaning, Objectives, Types of Research |
+| **Unit 2.1** | Research Design Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part1_Research_Design.ipynb) | Problems, Questions, Hypotheses, Variables |
+| **Unit 2.2** | Research Design Part 2 (Advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) | Models, Planning Process, Validity |
+| **Unit 3.1** | Data Collection & Analysis Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part1_Data_Collection_Analysis_Reporting.ipynb) | Methods, Processing, Basic Reporting |
+| **Unit 3.2** | Report Writing & Bibliography Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb) | IMRaD Format, Tables, Citations |
+| **Unit 3.3** | Tables, Citations & Visualization Part 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) | Advanced Figures, Citation Styles |
+| **Unit 4.1** | Ethical Issues Part 1: IPR & Copyright | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part1.ipynb) | IPR, Patents, Open Access |
+| **Unit 4.2** | Ethical Issues Part 2: Integrity & Conduct | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part2.ipynb) | Plagiarism, Animal/Human Ethics |
+
+> **✅ All links are ready to use!** Click any badge to open the notebook in Google Colab.
+
+---
+
+## 🎓 **Getting Started**
 
 ### **Prerequisites**
 - Basic understanding of biology
@@ -185,42 +205,57 @@ By completing this course, students will be able to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/research-methodology.git
-cd research-methodology
+git clone https://github.com/The-Pattern-Hunter/Research_Methodology.git
+cd Research_Methodology
 
 # Install required Python packages (if running locally)
 pip install numpy pandas matplotlib seaborn scipy ipywidgets
 
 # Or use Google Colab (recommended for beginners)
-# Simply upload .ipynb files to Google Colab - no installation needed!
+# Simply click the Colab badges above - no installation needed!
 ```
 
 ### **Recommended Learning Path**
 
-```
-1. Start with Module 0 (Prologue) - Get inspired! 🌟
-   ↓
-2. Unit 1 - Understand foundations 📖
-   ↓
-3. Unit 2 (Parts 1-2) - Learn to design research 🎯
-   ↓
-4. Unit 3 (Parts 1-3) - Master data & reporting 📊
-   ↓
-5. Unit 4 (Parts 1-2) - Embrace ethical practice ⚖️
-```
+Follow this sequence for optimal learning:
 
-**Estimated Time:** 40-50 hours total (self-paced)
+| Week | Module | Time | Key Deliverable |
+|------|--------|------|-----------------|
+| **Week 1** | Module 0: Prologue | 3-4 hrs | Understand emergence & philosophy of research |
+| **Week 2** | Unit 1: Foundations | 4-5 hrs | Classify research types, distinguish methods vs. methodology |
+| **Week 3** | Unit 2.1: Research Design | 5-6 hrs | Formulate research question & hypothesis |
+| **Week 4** | Unit 2.2: Design Advanced | 5-6 hrs | Complete research proposal draft |
+| **Week 5** | Unit 3.1: Data & Analysis | 4-5 hrs | Design data collection protocol |
+| **Week 6** | Unit 3.2: Report Writing | 5-6 hrs | Write IMRaD report draft |
+| **Week 7** | Unit 3.3: Visualization | 4-5 hrs | Create publication-quality figures |
+| **Week 8** | Unit 4.1: IPR & Copyright | 3-4 hrs | Understand intellectual property |
+| **Week 9** | Unit 4.2: Ethics & Integrity | 4-5 hrs | Complete ethics self-assessment |
+
+**Total Estimated Time:** 40-50 hours (self-paced)
+
+> 💡 **Tip:** Spend 5-6 hours per week for a comfortable 9-week completion, or accelerate to 3-4 weeks if intensive.
 
 ---
 
 ## 💡 **Special Features**
 
 ### **🎨 Interactive Visualizations**
-Every notebook includes interactive elements:
-- Sliders to adjust parameters in real-time
-- Dynamic plots that respond to your inputs
-- Comparative visualizations
-- Step-by-step animations
+
+Every notebook includes interactive elements. Here's what you'll find:
+
+| Module | Interactive Features | What You Can Do |
+|--------|---------------------|-----------------|
+| **Module 0** | • Emergence calculator<br>• 7-parameter sliders<br>• Real-time visualization | Adjust qualities & observer state to see emergence change |
+| **Unit 1** | • Research motivation charts<br>• Methods vs. Methodology comparisons<br>• Type classification exercises | Compare different research approaches visually |
+| **Unit 2.1** | • Hypothesis formulator<br>• Variable identifier<br>• Research question generator | Practice formulating your own research elements |
+| **Unit 2.2** | • Population growth models<br>• Research plan template<br>• Model comparison tool | Simulate biological phenomena, generate proposals |
+| **Unit 3.1** | • Data collection simulator<br>• Statistical test selector<br>• Sample size calculator | Choose appropriate methods for your research |
+| **Unit 3.2** | • IMRaD structure builder<br>• Table formatter<br>• Citation generator | Create professional research documents |
+| **Unit 3.3** | • Figure layout optimizer<br>• Citation style comparator<br>• Visualization selector | Design publication-quality outputs |
+| **Unit 4.1** | • Patent search simulator<br>• Open Access calculator<br>• Predatory journal checker | Navigate intellectual property landscape |
+| **Unit 4.2** | • Plagiarism quiz (5 scenarios)<br>• Authorship decision tree<br>• Ethics scenario analyzer | Test ethical decision-making skills |
+
+**Total Interactive Elements:** 50+ across all modules
 
 ### **🌍 Regional Context**
 All examples use familiar Western Odisha biodiversity:
@@ -237,47 +272,43 @@ Ready-to-use research tools:
 - Ethical review checklist
 - Plagiarism self-check quiz
 
-### **🔬 Real Research Examples**
-Based on Dr. Patel's actual OSHEC-funded research:
-- Earthworm genomics for biomonitoring industrial pollution
-- Fish genetics and microsatellite marker development
-- Environmental biomonitoring in mining regions
-
 ---
 
 ## 📦 **What's Included**
 
 ```
-research-methodology/
+Research_Methodology/
 │
-├── Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb
-│   └── Interactive emergence explorer
+├── README.md (this file)
 │
-├── Unit1_Foundations_of_Research.ipynb
-│   └── Types, methods vs. methodology
-│
-├── Unit2_Research_Design.ipynb
-│   └── Problem formulation, hypotheses
-│
-├── Unit2_Part2_Research_Design_Advanced.ipynb
-│   └── Models, planning process, validity
-│
-├── Unit3_Data_Collection_Analysis_Reporting.ipynb
-│   └── Methods, processing, basic reporting
-│
-├── Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb
-│   └── IMRaD format, tables, citations
-│
-├── Unit3_Part3_Tables_Citations_Visualization.ipynb
-│   └── Advanced figures, comprehensive citation guide
-│
-├── Unit4_Ethical_Issues_Part1.ipynb
-│   └── IPR, copyright, patents, open access
-│
-├── Unit4_Ethical_Issues_Part2.ipynb
-│   └── Plagiarism, integrity, animal/human ethics
-│
-└── README.md (this file)
+└── notebooks/
+    │
+    ├── Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb
+    │   └── Interactive emergence explorer
+    │
+    ├── Unit1_Foundations_of_Research.ipynb
+    │   └── Types, methods vs. methodology
+    │
+    ├── Unit2_Part1_Research_Design.ipynb
+    │   └── Problem formulation, hypotheses
+    │
+    ├── Unit2_Part2_Research_Design_Advanced.ipynb
+    │   └── Models, planning process, validity
+    │
+    ├── Unit3_Part1_Data_Collection_Analysis_Reporting.ipynb
+    │   └── Methods, processing, basic reporting
+    │
+    ├── Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb
+    │   └── IMRaD format, tables, citations
+    │
+    ├── Unit3_Part3_Tables_Citations_Visualization.ipynb
+    │   └── Advanced figures, comprehensive citation guide
+    │
+    ├── Unit4_Ethical_Issues_Part1.ipynb
+    │   └── IPR, copyright, patents, open access
+    │
+    └── Unit4_Ethical_Issues_Part2.ipynb
+        └── Plagiarism, integrity, animal/human ethics
 ```
 
 **Total:** 9 comprehensive, interactive notebooks
@@ -289,7 +320,7 @@ research-methodology/
 **Dr. Alok Patel**  
 Head, Department of Zoology  
 Kuchinda College (Affiliated with Sambalpur University)  
-Odisha, India
+Western Odisha, India
 
 ### **Research Interests:**
 - Evolution and environmental genomics
@@ -300,7 +331,7 @@ Odisha, India
 "Students at regional colleges deserve the same quality of transformative education available at elite urban institutions. By using local biodiversity as entry points, we can teach universal scientific principles while honoring our students' lived experiences."
 
 ### **Notable Projects:**
- "Pattern Hunters" educational methodology
+- "Pattern Hunters" educational methodology
 - Development of interactive learning materials for resource-constrained settings
 
 ---
@@ -393,7 +424,8 @@ If you use this course in your teaching or research, please cite:
 
 ```
 Patel, A. (2026). Research Methodology: An Interactive Journey - From Mystery to Method.
-Kuchinda College, Department of Zoology. https://github.com/The-Pattern-Hunter/Research_Methodology
+Kuchinda College, Department of Zoology. 
+https://github.com/The-Pattern-Hunter/Research_Methodology
 ```
 
 ---
@@ -413,8 +445,9 @@ This course draws inspiration from:
 
 Found a bug? Have a suggestion? Want to contribute regional examples?
 
-- **Email:** [aloksu@gmail.com]
-- **Discussions:** Share how you've adapted this course!
+- **Issues:** [GitHub Issues](https://github.com/The-Pattern-Hunter/Research_Methodology/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/The-Pattern-Hunter/Research_Methodology/discussions)
+- **Pull Requests:** Contributions welcome!
 
 ---
 
@@ -433,6 +466,50 @@ Please:
 
 ---
 
+## 📋 **Quick Reference Card**
+
+### **Course at a Glance**
+
+| Aspect | Details |
+|--------|---------|
+| **Total Modules** | 9 notebooks (1 prologue + 8 units) |
+| **Format** | Jupyter Notebooks (Google Colab compatible) |
+| **Level** | Undergraduate (BSc Zoology) |
+| **Duration** | 40-50 hours (9 weeks recommended) |
+| **Prerequisites** | Basic biology, curiosity, no coding experience needed |
+| **Language** | English (with regional examples from Western Odisha) |
+| **Pedagogy** | Pattern Hunters (concrete → abstract, local → universal) |
+| **Interactive Elements** | 50+ visualizations, sliders, calculators |
+| **Practice Exercises** | 30+ hands-on activities |
+| **Templates Included** | Research plans, IMRaD reports, citation formats |
+| **Ethics Coverage** | Comprehensive (plagiarism, animal/human subjects, IPR) |
+
+### **Key Resources per Module**
+
+| Module | Code Examples | Visualizations | Exercises | Templates |
+|--------|---------------|----------------|-----------|-----------|
+| Module 0 | 3 | 4 | 2 | 0 |
+| Unit 1 | 8 | 6 | 4 | 0 |
+| Unit 2.1 | 10 | 8 | 5 | 1 |
+| Unit 2.2 | 12 | 10 | 6 | 2 |
+| Unit 3.1 | 15 | 8 | 5 | 1 |
+| Unit 3.2 | 18 | 6 | 4 | 3 |
+| Unit 3.3 | 20 | 12 | 6 | 2 |
+| Unit 4.1 | 8 | 5 | 3 | 1 |
+| Unit 4.2 | 10 | 6 | 5 | 2 |
+| **TOTAL** | **104** | **65** | **40** | **12** |
+
+### **Regional Species Featured**
+
+| Taxonomic Group | Species Examples | Used in Modules |
+|-----------------|------------------|-----------------|
+| **Fish** | Labeo rohita (Rohu), Local pond species | Units 1-4 |
+| **Invertebrates** | Earthworms (mining vs. agricultural), Ants | Module 0, Units 2-4 |
+| **Insects** | Butterflies (forest diversity), Peacocks (behavior) | Units 1, 3 |
+| **Ecosystems** | Mahanadi river, Kuchinda forests, Mining areas | All units |
+
+---
+
 ## 🌟 **Final Words**
 
 Research is a conversation with nature. We ask questions, nature responds, we ask better questions. This course teaches you how to ask well, listen carefully, and contribute meaningfully to that eternal conversation.
@@ -445,7 +522,7 @@ Welcome to the journey from mystery to method. Welcome to research.
 
 ---
 
-**Start Your Journey:** [Module 0: Prologue →](Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb)
+**Start Your Journey:** [Module 0: Prologue →](notebooks/Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb)
 
 ---
 
