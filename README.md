@@ -20,7 +20,7 @@ This isn't just another research methodology course. This is a **philosophical a
 Before teaching you *how* to do research, we explore *why* we research—starting with an attempt to model human emotion and emergence, then bridging to earthworm genomics, fish populations, and ecosystem dynamics.
 
 ### **The Pattern Hunters Philosophy:**
-- 🌱 **Concrete before Abstract** - Begin with Western Odisha biodiversity (earthworms, fish, butterflies)
+- 🌱 **Concrete before Abstract** - Begin with Odisha biodiversity (earthworms, fish, butterflies)
 - 🧠 **Interactive before Theoretical** - Play with models, visualize data, understand by doing
 - 💡 **Personal before Formal** - Connect research to your lived experience and curiosity
 - 🌉 **Local before Universal** - Use regional examples to teach universal principles
@@ -168,7 +168,7 @@ By completing this course, students will be able to:
 - ✅ Assess ethical implications of research
 
 ### **Regional Application**
-- ✅ Apply research principles to Western Odisha biodiversity
+- ✅ Apply research principles to Odisha biodiversity
 - ✅ Design studies relevant to local environmental issues
 - ✅ Use familiar species as entry points to universal principles
 
@@ -255,10 +255,10 @@ Every notebook includes engaging visual elements to enhance learning:
 | **Unit 4.1** | • IPR concept diagrams<br>• Open access vs. traditional publishing comparisons<br>• Patent process workflows | Understanding intellectual property |
 | **Unit 4.2** | • Plagiarism type examples<br>• Ethical decision frameworks<br>• Animal/human ethics guidelines | Ethics in action |
 
-**All notebooks feature:** Code examples, visualizations, practice exercises, and real Western Odisha biodiversity examples
+**All notebooks feature:** Code examples, visualizations, practice exercises, and Odisha biodiversity examples
 
 ### **🌍 Regional Context**
-All examples use familiar Western Odisha biodiversity:
+All examples use familiar Odisha biodiversity:
 - **Fish:** Labeo rohita (Rohu), local pond species
 - **Earthworms:** Mining vs. agricultural site populations
 - **Butterflies:** Forest diversity patterns
@@ -348,7 +348,7 @@ Odisha, India
 
 This course is designed to be **easily adaptable** to your regional context:
 
-1. **Replace Examples:** Change from Western Odisha species to your local biodiversity
+1. **Replace Examples:** Change from Odisha species to your local biodiversity
 2. **Adjust Complexity:** Add or remove sections based on your students' level
 3. **Modify Interactives:** All Python code is clearly commented and modifiable
 4. **Translate:** Structure supports easy translation to regional languages
@@ -440,7 +440,7 @@ https://github.com/The-Pattern-Hunter/Research_Methodology
 
 This course draws inspiration from:
 - Students at Kuchinda College who deserve world-class education
-- Western Odisha's rich biodiversity that teaches universal principles
+- Odisha's rich biodiversity that teaches universal principles
 - The "Pattern Hunters" philosophy of concrete-to-abstract learning
 - Osho's teachings on consciousness and non-duality
 - Every researcher who asks "Can we understand this systematically?"
@@ -528,4 +528,4 @@ Welcome to the journey from mystery to method. Welcome to research.
 ---
 
 *Created with 💜 for BSc Zoology students everywhere*  
-*Kuchinda College | Sambalpur University | Western Odisha, India*
+*Kuchinda College, Kuchinda | Sambalpur University | Odisha, India*
