@@ -42,6 +42,7 @@ Click the badge to open any notebook directly in Google Colab (no installation r
 | **Unit 1** | Foundations of Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Foundations_of_Research.ipynb) | Meaning, Objectives, Types of Research |
 | **Unit 2.1** | Research Design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Research_Design.ipynb) | Problems, Questions, Hypotheses, Variables |
 | **Unit 2.2** | Research Design - Advanced | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) | Models, Planning Process, Validity |
+| **Unit 2.3** | Experimental Designs & Sampling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part3_Experimental_Designs_Sampling.ipynb) | CRD, RBD, Factorial, Sample Size, Power Analysis |
 | **Unit 3.1** | Data Collection, Analysis & Reporting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Data_Collection_Analysis_Reporting.ipynb) | Methods, Processing, Basic Reporting |
 | **Unit 3.2** | Report Writing, Tables & Bibliography | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part2_Report_Writing_Tables_Bibliography.ipynb) | IMRaD Format, Tables, Citations |
 | **Unit 3.3** | Tables, Citations & Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) | Advanced Figures, Citation Styles |
@@ -160,9 +161,20 @@ An unprecedented opening that asks: "Can we systematically understand emergent p
 - Complete research planning process
 - Validity and reliability
 
-**Regional Examples:** Earthworm biomonitoring proposal, fish population dynamics models
+#### **Part 3: Experimental Designs & Sampling**
+- Types of experiments (experimental vs. observational)
+- The 3 Rs: Replication, Randomization, Reduction
+- Completely Randomized Design (CRD)
+- Randomized Block Design (RBD)
+- Factorial Design (testing multiple factors)
+- Latin Square and Split-Plot designs
+- Sample size determination
+- Statistical power analysis
+- Effect sizes and practical significance
 
-**🎮 Interactive Components:** Research plan template generator, population growth model simulator, hypothesis formulator
+**Regional Examples:** Earthworm biomonitoring proposal, fish population dynamics models, temperature × food factorial experiments
+
+**🎮 Interactive Components:** Research plan template generator, population growth model simulator, hypothesis formulator, CRD/RBD/Factorial demonstrations, sample size calculator, power curve explorer
 
 ---
 
@@ -281,15 +293,16 @@ Follow this sequence for optimal learning:
 | **Week 2** | Unit 1: Foundations | 4-5 hrs | Classify research types, distinguish methods vs. methodology |
 | **Week 3** | Unit 2.1: Research Design | 5-6 hrs | Formulate research question & hypothesis |
 | **Week 4** | Unit 2.2: Design Advanced | 5-6 hrs | Complete research proposal draft |
-| **Week 5** | Unit 3.1: Data & Analysis | 4-5 hrs | Design data collection protocol |
-| **Week 6** | Unit 3.2: Report Writing | 5-6 hrs | Write IMRaD report draft |
-| **Week 7** | Unit 3.3: Visualization | 4-5 hrs | Create publication-quality figures |
-| **Week 8** | Unit 4.1: IPR & Copyright | 3-4 hrs | Understand intellectual property |
-| **Week 9** | Unit 4.2: Ethics & Integrity | 4-5 hrs | Complete ethics self-assessment |
+| **Week 5** | Unit 2.3: Experimental Designs | 5-6 hrs | Design CRD/RBD/Factorial experiment, calculate sample size |
+| **Week 6** | Unit 3.1: Data & Analysis | 4-5 hrs | Design data collection protocol |
+| **Week 7** | Unit 3.2: Report Writing | 5-6 hrs | Write IMRaD report draft |
+| **Week 8** | Unit 3.3: Visualization | 4-5 hrs | Create publication-quality figures |
+| **Week 9** | Unit 4.1: IPR & Copyright | 3-4 hrs | Understand intellectual property |
+| **Week 10** | Unit 4.2: Ethics & Integrity | 4-5 hrs | Complete ethics self-assessment |
 
-**Total Estimated Time:** 40-50 hours (self-paced)
+**Total Estimated Time:** 45-55 hours (self-paced)
 
-> 💡 **Tip:** Spend 5-6 hours per week for a comfortable 9-week completion, or accelerate to 3-4 weeks if intensive.
+> 💡 **Tip:** Spend 5-6 hours per week for a comfortable 10-week completion, or accelerate to 4-5 weeks if intensive.
 
 ---
 
@@ -305,6 +318,7 @@ Every notebook includes engaging visual elements to enhance learning:
 | **Unit 1** | • Research motivation visualizations<br>• Comparative charts (methods vs. methodology)<br>• Type classification demonstrations | Visual comparison of research approaches |
 | **Unit 2.1** | • Research design frameworks<br>• Hypothesis examples<br>• Variable relationship diagrams | Step-by-step research planning |
 | **Unit 2.2** | • Population growth model simulations<br>• Complete research plan template<br>• Scientific model demonstrations | Interactive modeling and templates |
+| **Unit 2.3** | • CRD/RBD/Factorial design demonstrations<br>• ANOVA with box plots and scatter plots<br>• Sample size calculator with curves<br>• Power analysis with power curves | Experimental design mastery |
 | **Unit 3.1** | • Data collection workflow diagrams<br>• Analysis method examples<br>• Report structure guides | Practical data handling |
 | **Unit 3.2** | • IMRaD format templates<br>• Table creation examples<br>• Citation format demonstrations | Professional writing tools |
 | **Unit 3.3** | • Publication-quality figure examples<br>• Multiple citation style guides<br>• Visualization best practices | Advanced presentation skills |
@@ -357,6 +371,9 @@ Research_Methodology/
     ├── Unit2_Part2_Research_Design_Advanced.ipynb
     │   └── Models, planning process, validity
     │
+    ├── Unit2_Part3_Experimental_Designs_Sampling.ipynb
+    │   └── CRD, RBD, Factorial, sample size, power analysis
+    │
     ├── Unit3_Data_Collection_Analysis_Reporting.ipynb
     │   └── Methods, processing, basic reporting
     │
@@ -373,7 +390,7 @@ Research_Methodology/
         └── Plagiarism, integrity, animal/human ethics
 ```
 
-**Total:** 9 comprehensive, interactive notebooks
+**Total:** 10 comprehensive, interactive notebooks
 
 ---
 
@@ -437,7 +454,7 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 ## 📊 **Course Statistics**
 
-- **Total Notebooks:** 9 (including philosophical prologue)
+- **Total Notebooks:** 10 (including philosophical prologue)
 - **Code Demonstrations:** Extensive throughout all units
 - **Visualizations:** Rich visual content in every module
 - **Practice Components:** Exercises and examples in each unit
@@ -445,13 +462,22 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 - **Regional Species Featured:** Fish, earthworms, butterflies, and more
 - **Citation Styles Covered:** APA, MLA, Chicago, Vancouver
 - **Ethical Topics:** Plagiarism, IPR, animal/human research, integrity
+- **Experimental Designs:** CRD, RBD, Factorial, Latin Square, Split-Plot
+- **Statistical Tools:** Sample size calculators, power analysis, effect sizes
 
 ---
 
 ## 🔄 **Version History**
 
+### **Version 1.1** (January 2026)
+- 🆕 Added Unit 2 Part 3: Experimental Designs & Sampling
+- 📊 Interactive CRD, RBD, and Factorial demonstrations
+- 🔬 Sample size calculator and power analysis tools
+- 📈 Complete experimental design coverage
+- **Total: 10 comprehensive notebooks**
+
 ### **Version 1.0** (January 2026)
-- ✨ Initial release with all 9 modules
+- ✨ Initial release with 9 core modules
 - 🎮 Interactive emergence explorer
 - 📚 Complete IMRaD writing guide
 - ⚖️ Comprehensive ethics coverage
@@ -513,17 +539,19 @@ Please:
 
 | Aspect | Details |
 |--------|---------|
-| **Total Modules** | 9 notebooks (1 prologue + 8 units) |
+| **Total Modules** | 10 notebooks (1 prologue + 9 units) |
 | **Format** | Jupyter Notebooks (Google Colab compatible) |
 | **Level** | Undergraduate (BSc Zoology) |
-| **Duration** | 40-50 hours (9 weeks recommended) |
+| **Duration** | 45-55 hours (10 weeks recommended) |
 | **Prerequisites** | Basic biology, curiosity, no coding experience needed |
 | **Language** | English (with regional examples from Western Odisha) |
 | **Pedagogy** | Pattern Hunters (concrete → abstract, local → universal) |
-| **Interactive Elements** | 50+ visualizations, sliders, calculators |
-| **Practice Exercises** | 30+ hands-on activities |
+| **Interactive Elements** | 60+ visualizations, sliders, calculators |
+| **Practice Exercises** | 35+ hands-on activities |
 | **Templates Included** | Research plans, IMRaD reports, citation formats |
 | **Ethics Coverage** | Comprehensive (plagiarism, animal/human subjects, IPR) |
+| **Experimental Designs** | CRD, RBD, Factorial, Latin Square, Split-Plot |
+| **Statistical Tools** | Sample size calculator, power analysis, effect sizes |
 
 ### **Key Resources Overview**
 
