@@ -343,7 +343,6 @@ Ready-to-use research tools:
 - Plagiarism self-check quiz
 
 ### **🔬 Real Research Examples**
-Based on Dr. Patel's actual OSHEC-funded research:
 - Earthworm genomics for biomonitoring industrial pollution
 - Fish genetics and microsatellite marker development
 - Environmental biomonitoring in mining regions
