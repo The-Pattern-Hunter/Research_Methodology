@@ -192,6 +192,41 @@ Click the badge to open any notebook directly in Google Colab (no installation r
 
 > **✅ All links are ready to use!** Click any badge to open the notebook in Google Colab.
 
+
+---
+
+## 📖 **Offline Manual - Study Anywhere, Anytime**
+
+For detailed explanations, examples, and offline reference, download the comprehensive manual:
+
+### **Download Options:**
+
+| Format | Size | Best For | Download Link |
+|--------|------|----------|---------------|
+| **PDF** | ~550 KB | Reading, printing, offline study | [📥 Download PDF](manual/Research_Methodology_Complete_Manual.pdf) |
+
+### **What's in the Manual?**
+
+✅ **67 pages** of comprehensive content
+✅ **15 chapters** covering all aspects of research methodology  
+✅ **40+ references** for further reading
+✅ **Western Odisha examples** throughout
+✅ **Professional formatting** ready to print
+
+### **How to Use the Manual:**
+
+**Best Learning Approach:**
+1. 📖 **Read** the manual chapter (understand concepts)
+2. 💻 **Open** the corresponding interactive notebook (hands-on practice)
+3. ✍️ **Apply** to your own research questions
+4. 🔄 **Review** both resources for exams
+
+**Table of Contents:**
+- **Part I**: Prologue and Foundations (Chapters 1-3)
+- **Part II**: Research Design (Chapters 4-7)
+- **Part III**: Data Collection and Reporting (Chapters 8-12)
+- **Part IV**: Ethical Issues (Chapters 13-15) + References
+
 ---
 
 ## 🎓 **Getting Started**
