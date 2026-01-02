@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this course in your teaching or research, please cite it as below."
+title: "Research Methodology: An Interactive Journey - From Mystery to Method"
+version: 1.1.0
+date-released: 2026-01-02
+authors:
+  - family-names: Patel
+    given-names: Alok
+    affiliation: "Department of Zoology, Kuchinda College, Sambalpur University"
+    orcid: ""
+repository-code: "https://github.com/The-Pattern-Hunter/Research_Methodology"
+url: "https://github.com/The-Pattern-Hunter/Research_Methodology"
+keywords:
+  - research methodology
+  - zoology education
+  - experimental design
+  - statistical power
+  - sample size
+  - jupyter notebooks
+  - interactive learning
+  - science education
+  - India
+  - Odisha
+  - emergence
+  - philosophy of science
+  - Pattern Hunters
+license: CC-BY-4.0
+abstract: >
+  A comprehensive, interactive course on research methodology designed for BSc Zoology
+  students at regional colleges in India. The course features 10 Jupyter notebooks with
+  hands-on demonstrations, statistical tools, and a unique philosophical approach that
+  begins with exploring emergence and mystery before systematically teaching research
+  methods. Uses Western Odisha biodiversity as concrete examples to teach universal
+  scientific principles. Includes complete coverage of experimental designs (CRD, RBD,
+  Factorial, Latin Square), sample size determination, power analysis, data collection,
+  report writing, and research ethics. Version 1.1 adds comprehensive experimental
+  design and sampling modules.
+type: software

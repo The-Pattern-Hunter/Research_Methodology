@@ -1,0 +1,50 @@
+{
+  "title": "Research Methodology: An Interactive Journey - From Mystery to Method",
+  "description": "A comprehensive, interactive course on research methodology for BSc Zoology students, featuring 10 Jupyter notebooks with hands-on demonstrations, regional examples from Western Odisha, and a unique philosophical approach bridging human mystery to biological research.",
+  "creators": [
+    {
+      "name": "Patel, Alok",
+      "affiliation": "Department of Zoology, Kuchinda College, Sambalpur University",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "research methodology",
+    "zoology education",
+    "experimental design",
+    "statistical power",
+    "sample size",
+    "jupyter notebooks",
+    "interactive learning",
+    "science education",
+    "India",
+    "Odisha",
+    "emergence",
+    "philosophy of science",
+    "CRD",
+    "RBD",
+    "factorial design",
+    "ethics in research",
+    "Pattern Hunters"
+  ],
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "access_right": "open",
+  "upload_type": "lesson",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/The-Pattern-Hunter/Research_Methodology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [],
+  "references": [
+    "Kothari, C. R. (2004). Research Methodology: Methods and Techniques. New Age International.",
+    "Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences. Lawrence Erlbaum Associates."
+  ],
+  "notes": "This course uses the 'Pattern Hunters' pedagogy, moving from concrete regional examples (Western Odisha biodiversity) to abstract universal principles. It begins with a philosophical exploration of emergence and mystery, then bridges to systematic biological research methods. Version 1.1 includes comprehensive experimental design coverage.",
+  "version": "1.1.0",
+  "language": "eng"
+}
