@@ -203,7 +203,7 @@ For detailed explanations, examples, and offline reference, download the compreh
 
 | Format | Size | Best For | Download Link |
 |--------|------|----------|---------------|
-| **PDF** | ~550 KB | Reading, printing, offline study | [📥 Download PDF](manual/Research_Methodology_Complete_Manual.pdf) |
+| **PDF** | ~550 KB | Reading, printing, offline study | [📥 Download PDF](https://github.com/The-Pattern-Hunter/Research_Methodology/tree/main/manual/Research Methodology.pdf) |
 
 ### **What's in the Manual?**
 
