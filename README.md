@@ -47,9 +47,9 @@ Click the badge to open any notebook directly in Google Colab (no installation r
 | **Unit 3.3** | Tables, Citations & Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit3_Part3_Tables_Citations_Visualization.ipynb) | Advanced Figures, Citation Styles |
 | **Unit 4.1** | Ethical Issues Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part1.ipynb) | IPR, Copyright, Patents, Open Access |
 | **Unit 4.2** | Ethical Issues Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit4_Ethical_Issues_Part2.ipynb) | Plagiarism, Integrity, Animal/Human Ethics |
-| **🌟 BONUS** | Quantifying Subjective Experience | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Quantifying_Subjective_Experience_Interactive.ipynb) | Beauty, Grace, Emergence - Interactive Models |
 
 > **✅ All links are ready to use!** Click any badge to open the notebook in Google Colab.
+
 
 ---
 
@@ -61,16 +61,15 @@ For detailed explanations, examples, and offline reference, download the compreh
 
 | Format | Size | Best For | Download Link |
 |--------|------|----------|---------------|
-| **PDF** | ~550 KB | Reading, printing, offline study | [📥 Download PDF](manual/Research_Methodology_Complete_Manual.pdf) |
-| **Word** | ~550 KB | Editing, annotation, customization | [📥 Download Word](manual/Research_Methodology_Complete_Manual.docx) |
+| **PDF** | ~550 KB | Reading, printing, offline study | [📥 Download PDF](https://github.com/The-Pattern-Hunter/Research_Methodology/tree/main/manual/Research_Methodology.pdf) |
 
 ### **What's in the Manual?**
 
-✅ **110 pages** of comprehensive content  
+✅ **67 pages** of comprehensive content
 ✅ **15 chapters** covering all aspects of research methodology  
-✅ **40+ references** for further reading  
-✅ **Western Odisha examples** throughout  
-✅ **Professional formatting** ready to print  
+✅ **40+ references** for further reading
+✅ **Western Odisha examples** throughout
+✅ **Professional formatting** ready to print
 
 ### **How to Use the Manual:**
 
@@ -81,7 +80,6 @@ For detailed explanations, examples, and offline reference, download the compreh
 4. 🔄 **Review** both resources for exams
 
 **Table of Contents:**
-- **Part 0**: Introduction & How to Use This Manual
 - **Part I**: Prologue and Foundations (Chapters 1-3)
 - **Part II**: Research Design (Chapters 4-7)
 - **Part III**: Data Collection and Reporting (Chapters 8-12)
@@ -220,29 +218,6 @@ An unprecedented opening that asks: "Can we systematically understand emergent p
 
 ---
 
-### **🌟 BONUS: Quantifying Subjective Experience** 
-*An exploration of beauty, grace, and emergence*
-
-A deep philosophical and computational exploration asking: **"Can we model subjective experiences like beauty and grace?"**
-
-**Features:**
-- Interactive models with 9 adjustable sliders
-- Simple additive model (why it fails)
-- Interaction model (getting closer)
-- Complete model including observer effects
-- 3D visualizations of emergence landscape
-- The 25% that remains ineffable
-
-**Key Learning:**
-- Emergent properties in complex systems
-- Observer-dependence of experience
-- Limits of quantification
-- The Both/And wisdom: Science AND mystery
-
-**🎮 Interactive Components:** Multiple emergence calculators, real-time visualizations, temporal evolution simulator
-
----
-
 ## 🎯 **Learning Outcomes**
 
 By completing this course, students will be able to:
@@ -311,11 +286,10 @@ Follow this sequence for optimal learning:
 | **Week 7** | Unit 3.3: Visualization | 4-5 hrs | Create publication-quality figures |
 | **Week 8** | Unit 4.1: IPR & Copyright | 3-4 hrs | Understand intellectual property |
 | **Week 9** | Unit 4.2: Ethics & Integrity | 4-5 hrs | Complete ethics self-assessment |
-| **Week 10** | Bonus: Subjective Experience | 3-4 hrs | Explore emergence models (optional) |
 
-**Total Estimated Time:** 40-50 hours (self-paced) + 3-4 hours bonus
+**Total Estimated Time:** 40-50 hours (self-paced)
 
-> 💡 **Tip:** Spend 5-6 hours per week for a comfortable 10-week completion, or accelerate to 3-4 weeks if intensive.
+> 💡 **Tip:** Spend 5-6 hours per week for a comfortable 9-week completion, or accelerate to 3-4 weeks if intensive.
 
 ---
 
@@ -336,7 +310,6 @@ Every notebook includes engaging visual elements to enhance learning:
 | **Unit 3.3** | • Publication-quality figure examples<br>• Multiple citation style guides<br>• Visualization best practices | Advanced presentation skills |
 | **Unit 4.1** | • IPR concept diagrams<br>• Open access vs. traditional publishing comparisons<br>• Patent process workflows | Understanding intellectual property |
 | **Unit 4.2** | • Plagiarism type examples<br>• Ethical decision frameworks<br>• Animal/human ethics guidelines | Ethics in action |
-| **Bonus** | • 9-slider emergence model<br>• 3D visualization landscapes<br>• Temporal evolution simulator<br>• Mystery visualization | Deep exploration of subjective experience |
 
 **All notebooks feature:** Code examples, visualizations, practice exercises, and Odisha biodiversity examples
 
@@ -370,10 +343,6 @@ Research_Methodology/
 │
 ├── README.md (this file)
 │
-├── manual/
-│   ├── Research_Methodology_Complete_Manual.pdf (110 pages)
-│   └── Research_Methodology_Complete_Manual.docx
-│
 └── notebooks/
     │
     ├── Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb
@@ -400,14 +369,11 @@ Research_Methodology/
     ├── Unit4_Ethical_Issues_Part1.ipynb
     │   └── IPR, copyright, patents, open access
     │
-    ├── Unit4_Ethical_Issues_Part2.ipynb
-    │   └── Plagiarism, integrity, animal/human ethics
-    │
-    └── Quantifying_Subjective_Experience_Interactive.ipynb
-        └── BONUS: Beauty, grace, emergence models
+    └── Unit4_Ethical_Issues_Part2.ipynb
+        └── Plagiarism, integrity, animal/human ethics
 ```
 
-**Total:** 9 core notebooks + 1 bonus + comprehensive manual
+**Total:** 9 comprehensive, interactive notebooks
 
 ---
 
@@ -441,7 +407,6 @@ This course is designed to be **easily adaptable** to your regional context:
 4. **Complete Exercises** - Active practice beats passive reading
 5. **Use Templates** - Apply tools to your actual research
 6. **Ask "Why?"** - Every principle has a reason
-7. **Explore the Bonus** - Dive deep into emergence and mystery
 
 ### **Study Tips:**
 
@@ -472,7 +437,7 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 ## 📊 **Course Statistics**
 
-- **Total Notebooks:** 10 (9 core + 1 bonus on subjective experience)
+- **Total Notebooks:** 9 (including philosophical prologue)
 - **Code Demonstrations:** Extensive throughout all units
 - **Visualizations:** Rich visual content in every module
 - **Practice Components:** Exercises and examples in each unit
@@ -480,19 +445,17 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 - **Regional Species Featured:** Fish, earthworms, butterflies, and more
 - **Citation Styles Covered:** APA, MLA, Chicago, Vancouver
 - **Ethical Topics:** Plagiarism, IPR, animal/human research, integrity
-- **Manual Pages:** 110 pages comprehensive offline reference
 
 ---
 
 ## 🔄 **Version History**
 
 ### **Version 1.0** (January 2026)
-- ✨ Initial release with all 9 core modules
+- ✨ Initial release with all 9 modules
 - 🎮 Interactive emergence explorer
 - 📚 Complete IMRaD writing guide
 - ⚖️ Comprehensive ethics coverage
 - 🌍 Western Odisha regional examples
-- 🌟 BONUS: Subjective experience exploration notebook
 
 ---
 
@@ -550,10 +513,10 @@ Please:
 
 | Aspect | Details |
 |--------|---------|
-| **Total Modules** | 10 notebooks (1 prologue + 8 units + 1 bonus) |
+| **Total Modules** | 9 notebooks (1 prologue + 8 units) |
 | **Format** | Jupyter Notebooks (Google Colab compatible) |
 | **Level** | Undergraduate (BSc Zoology) |
-| **Duration** | 40-50 hours (9 weeks recommended) + 3-4 hrs bonus |
+| **Duration** | 40-50 hours (9 weeks recommended) |
 | **Prerequisites** | Basic biology, curiosity, no coding experience needed |
 | **Language** | English (with regional examples from Western Odisha) |
 | **Pedagogy** | Pattern Hunters (concrete → abstract, local → universal) |
@@ -561,7 +524,6 @@ Please:
 | **Practice Exercises** | 30+ hands-on activities |
 | **Templates Included** | Research plans, IMRaD reports, citation formats |
 | **Ethics Coverage** | Comprehensive (plagiarism, animal/human subjects, IPR) |
-| **Offline Manual** | 110 pages PDF + Word format |
 
 ### **Key Resources Overview**
 
@@ -578,7 +540,7 @@ The course progresses from philosophical foundations (Module 0) through research
 | Taxonomic Group | Species Examples | Used in Modules |
 |-----------------|------------------|-----------------|
 | **Fish** | Labeo rohita (Rohu), Local pond species | Units 1-4 |
-| **Invertebrates** | Earthworms (mining vs. agricultural), Ants | Module 0, Units 2-4, Bonus |
+| **Invertebrates** | Earthworms (mining vs. agricultural), Ants | Module 0, Units 2-4 |
 | **Insects** | Butterflies (forest diversity), Peacocks (behavior) | Units 1, 3 |
 | **Ecosystems** | Mahanadi river, Kuchinda forests, Mining areas | All units |
 
