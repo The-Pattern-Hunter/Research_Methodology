@@ -10,7 +10,7 @@
 > — Dr. Alok Patel
 
 ---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18136067.svg)](https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/1126222027.svg)](https://doi.org/10.5281/zenodo.18136066)
 
 > 📌 **Permanent Archive:** This course is permanently archived on Zenodo with DOI for citation.
 
