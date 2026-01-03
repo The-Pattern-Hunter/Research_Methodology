@@ -510,7 +510,7 @@ Patel, A. (2026). Research Methodology: An Interactive Journey - From Mystery to
   url          = {https://doi.org/10.5281/zenodo.18136067}
 }
 ```
-Patel, Alok. 2026. "Research Methodology: An Interactive Journey - From Mystery to Method." Version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.18136067.
+Patel, Alok. 2026. "Research Methodology: An Interactive Journey - From Mystery to Method." Version 1.2.0. Zenodo. https://doi.org/10.5281/zenodo.18136067.
 ### **Chicago Style:**
 ---
 
