@@ -10,6 +10,9 @@
 > — Dr. Alok Patel
 
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18136067.svg)](https://doi.org/10.5281/zenodo.)
+
+> 📌 **Permanent Archive:** This course is permanently archived on Zenodo with DOI for citation.
 
 ## 👨‍🏫 **About the Author**
 
@@ -488,12 +491,27 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 If you use this course in your teaching or research, please cite:
 
-```
-Patel, A. (2026). Research Methodology: An Interactive Journey - From Mystery to Method.
-Kuchinda College, Department of Zoology. 
-https://github.com/The-Pattern-Hunter/Research_Methodology
-```
+### **APA Style:**
 
+```
+Patel, A. (2026). Research Methodology: An Interactive Journey - From Mystery to Method (Version 1.2.0) [Educational Software]. Zenodo. https://doi.org/10.5281/zenodo.18136067
+```
+### **BibTeX:**
+```bibtex
+@software{patel_2026_research,
+  author       = {Patel, Alok},
+  title        = {{Research Methodology: An Interactive Journey - 
+                   From Mystery to Method}},
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.2.0},
+  doi          = {10.5281/zenodo.18136067},
+  url          = {https://doi.org/10.5281/zenodo.18136067}
+}
+```
+Patel, Alok. 2026. "Research Methodology: An Interactive Journey - From Mystery to Method." Version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.18136067.
+### **Chicago Style:**
 ---
 
 ## 🙏 **Acknowledgments**
