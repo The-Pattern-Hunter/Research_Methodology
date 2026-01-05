@@ -42,7 +42,8 @@ Click the badge to open any notebook directly in Google Colab (no installation r
 | Module | Notebook | Open in Colab | Topics Covered |
 |--------|----------|---------------|----------------|
 | **Module 0** | Prologue: The Quest to Code Mysteries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb) | Emergence, Philosophy of Research, Interactive Model |
-| **Unit 1** | Foundations of Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Foundations_of_Research.ipynb) | Meaning, Objectives, Types of Research |
+| **Unit 1.1** | Foundations of Research (Part 1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Foundations_of_Research.ipynb) | Meaning, Objectives, Methods vs. Methodology |
+| **Unit 1.2** ⭐ | Types of Research (Part 2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit1_Part2_Types_of_Research.ipynb) | Analytical/Descriptive, Quantitative/Qualitative, Applied/Basic |
 | **Unit 2.1** | Research Design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Research_Design.ipynb) | Problems, Questions, Hypotheses, Variables |
 | **Unit 2.2** | Research Design - Advanced | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part2_Research_Design_Advanced.ipynb) | Models, Planning Process, Validity |
 | **Unit 2.3** | Experimental Designs & Sampling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Research_Methodology/blob/main/notebooks/Unit2_Part3_Experimental_Designs_Sampling.ipynb) | CRD, RBD, Factorial, Sample Size, Power Analysis |
@@ -133,17 +134,27 @@ An unprecedented opening that asks: "Can we systematically understand emergent p
 ### **Unit 1: Foundations of Research** 📖
 *What is research and why do we do it?*
 
-**Covered Topics:**
+#### **Part 1: Fundamentals**
 - Meaning, objectives, and motivation of research
 - Research methods vs. research methodology
-- Types of research:
-  - ✅ Analytical vs. Descriptive
-  - ✅ Quantitative vs. Qualitative
-  - ✅ Basic vs. Applied
+- The critical distinction explained with zoological examples
 
-**Regional Examples:** Earthworm species in mining areas, Labeo rohita growth studies, butterfly diversity surveys
+#### **Part 2: Types of Research** ⭐ NEW!
+- Analytical vs. Descriptive Research
+- Quantitative vs. Qualitative Research
+- Applied vs. Basic (Pure/Fundamental) Research
+- Other classifications (exploratory, longitudinal, experimental, etc.)
+- Matching research type to research questions
 
-**🎮 Interactive Components:** Research type classification game, motivation analysis charts
+**Regional Examples:** Campus biodiversity surveys, earthworm species in mining areas, Labeo rohita studies, butterfly diversity patterns
+
+**🎮 Interactive Components:** 
+- Research type example viewer
+- Quantitative vs. qualitative comparator
+- Research continuum visualization (basic → applied)
+- Research classification tool
+- Case study analyzer (4 complete case studies)
+- Interactive quiz with instant feedback
 
 ---
 
@@ -293,7 +304,7 @@ Follow this sequence for optimal learning:
 | Week | Module | Time | Key Deliverable |
 |------|--------|------|-----------------|
 | **Week 1** | Module 0: Prologue | 3-4 hrs | Understand emergence & philosophy of research |
-| **Week 2** | Unit 1: Foundations | 4-5 hrs | Classify research types, distinguish methods vs. methodology |
+| **Week 2** | Unit 1.1 & 1.2: Foundations | 5-6 hrs | Classify research types, distinguish methods vs. methodology |
 | **Week 3** | Unit 2.1: Research Design | 5-6 hrs | Formulate research question & hypothesis |
 | **Week 4** | Unit 2.2: Design Advanced | 5-6 hrs | Complete research proposal draft |
 | **Week 5** | Unit 2.3: Experimental Designs | 5-6 hrs | Design CRD/RBD/Factorial experiment, calculate sample size |
@@ -318,7 +329,8 @@ Every notebook includes engaging visual elements to enhance learning:
 | Module | What You'll Find | Learning Approach |
 |--------|------------------|-------------------|
 | **Module 0** | • Emergence calculator with 7 adjustable sliders<br>• Real-time visualization of non-linear interactions<br>• Observer state dependency graphs | Hands-on exploration of complex systems |
-| **Unit 1** | • Research motivation visualizations<br>• Comparative charts (methods vs. methodology)<br>• Type classification demonstrations | Visual comparison of research approaches |
+| **Unit 1.1** | • Research motivation visualizations<br>• Comparative charts (methods vs. methodology) | Visual comparison of research approaches |
+| **Unit 1.2** ⭐ | • Research type example viewer<br>• Quantitative vs. qualitative comparator<br>• Research continuum visualization (basic → applied)<br>• Interactive classification tool<br>• 4 case studies with analysis<br>• Quiz with instant feedback | Complete research type mastery |
 | **Unit 2.1** | • Research design frameworks<br>• Hypothesis examples<br>• Variable relationship diagrams | Step-by-step research planning |
 | **Unit 2.2** | • Population growth model simulations<br>• Complete research plan template<br>• Scientific model demonstrations | Interactive modeling and templates |
 | **Unit 2.3** | • CRD/RBD/Factorial design demonstrations<br>• ANOVA with box plots and scatter plots<br>• Sample size calculator with curves<br>• Power analysis with power curves | Experimental design mastery |
@@ -364,10 +376,13 @@ Research_Methodology/
     ├── Module0_Prologue_The_Quest_to_Code_Mysteries.ipynb
     │   └── Interactive emergence explorer
     │
-    ├── Unit1_Foundations_of_Research.ipynb
-    │   └── Types, methods vs. methodology
+    ├── Unit1_Foundations_of_Research.ipynb (Part 1)
+    │   └── What is research, methods vs. methodology
     │
-    ├── Unit2_Research_Design.ipynb
+    ├── Unit1_Part2_Types_of_Research.ipynb ⭐ NEW!
+    │   └── Complete research type classifications
+    │
+    ├── Unit2_Research_Design.ipynb (Part 1)
     │   └── Problem formulation, hypotheses, variables
     │
     ├── Unit2_Part2_Research_Design_Advanced.ipynb
@@ -392,7 +407,7 @@ Research_Methodology/
         └── Plagiarism, integrity, animal/human ethics
 ```
 
-**Total:** 10 comprehensive, interactive notebooks
+**Total:** 11 comprehensive, interactive notebooks
 
 ---
 
@@ -456,11 +471,11 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 ## 📊 **Course Statistics**
 
-- **Total Notebooks:** 10 (including philosophical prologue)
-- **Code Demonstrations:** Extensive throughout all units
-- **Visualizations:** Rich visual content in every module
-- **Practice Components:** Exercises and examples in each unit
-- **Real Research Examples:** Based on Dr. Patel's OSHEC-funded work
+- **Total Notebooks:** 11 (including philosophical prologue)
+- **Interactive Visualizations:** 60+
+- **Code Examples:** 110+
+- **Practice Exercises:** 35+
+- **Real Research Cases:** 25+
 - **Regional Species Featured:** Fish, earthworms, butterflies, and more
 - **Citation Styles Covered:** APA, MLA, Chicago, Vancouver
 - **Ethical Topics:** Plagiarism, IPR, animal/human research, integrity
@@ -471,12 +486,20 @@ Research methodology is our systematic approach to exploring such mysteries—wi
 
 ## 🔄 **Version History**
 
+### **Version 1.2** (January 2026) ⭐ Current
+- 🆕 Added Unit 1 Part 2: Types of Research
+- 🎮 6 new interactive visualizations for research classification
+- 📊 Research continuum visualization (basic → applied)
+- 🎯 4 comprehensive case studies with analysis
+- 🧪 Interactive research classification tool
+- 💡 Integration with campus biodiversity project
+- **Total: 11 comprehensive notebooks**
+
 ### **Version 1.1** (January 2026)
 - 🆕 Added Unit 2 Part 3: Experimental Designs & Sampling
 - 📊 Interactive CRD, RBD, and Factorial demonstrations
 - 🔬 Sample size calculator and power analysis tools
 - 📈 Complete experimental design coverage
-- **Total: 10 comprehensive notebooks**
 
 ### **Version 1.0** (January 2026)
 - ✨ Initial release with 9 core modules
@@ -510,8 +533,10 @@ Patel, A. (2026). Research Methodology: An Interactive Journey - From Mystery to
   url          = {https://doi.org/10.5281/zenodo.18136067}
 }
 ```
-Patel, Alok. 2026. "Research Methodology: An Interactive Journey - From Mystery to Method." Version 1.2.0. Zenodo. https://doi.org/10.5281/zenodo.18136067.
+
 ### **Chicago Style:**
+Patel, Alok. 2026. "Research Methodology: An Interactive Journey - From Mystery to Method." Version 1.2.0. Zenodo. https://doi.org/10.5281/zenodo.18136067.
+
 ---
 
 ## 🙏 **Acknowledgments**
@@ -556,7 +581,7 @@ Please:
 
 | Aspect | Details |
 |--------|---------|
-| **Total Modules** | 10 notebooks (1 prologue + 9 units) |
+| **Total Modules** | 11 notebooks (1 prologue + 10 units) |
 | **Format** | Jupyter Notebooks (Google Colab compatible) |
 | **Level** | Undergraduate (BSc Zoology) |
 | **Duration** | 45-55 hours (10 weeks recommended) |
